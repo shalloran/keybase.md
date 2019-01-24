@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+* I am shalloran on github.
+* I am hal0 (https://keybase.io/hal0) on keybase.
+* I have a public key ASCg46GoO9j_vHsL6BOfoYtjVFy7vB1pyKdgdp021B68OQo
+
+To claim this, I am signing this object:
+
+```json
+{
+"body": {
+"key": {
+"eldest_kid": "0120a0e3a1a83bd8ffbc7b0be8139fa18b63545cbbbc1d69c8a760769d36d41ebc390a",
+"host": "keybase.io",
+"kid": "0120a0e3a1a83bd8ffbc7b0be8139fa18b63545cbbbc1d69c8a760769d36d41ebc390a",
+"uid": "ae7a42346ae094721c4dcde86da43f19",
+"username": "hal0"
+},
+"merkle_root": {
+"ctime": 1548348858,
+"hash": "b93909d2095ac6f8a2d3c9a8e81cd8d76a87ac19fbc6b8fcdd87b137cefd55bcb01c2d1afeb7bbd9368a3e1e8cf21b06d3d596dc977609d919e25f965f26e2b0",
+"hash_meta": "c500ec46f40797e4b97ea6b5c6e5a04cd6eacdd99925df531174d7df62887975",
+"seqno": 4600791
+},
+"service": {
+"entropy": "MDccoIK64vwhEUfQPp2Hv7ls",
+"name": "github",
+"username": "shalloran"
+},
+"type": "web_service_binding",
+"version": 2
+},
+"client": {
+"name": "keybase.io go client",
+"version": "2.13.2"
+},
+"ctime": 1548348949,
+"expire_in": 504576000,
+"prev": "53baa015d118d9bb43947d1d4b77972821defec0fa70b6fd682b5b446946899e",
+"seqno": 4,
+"tag": "signature"
+}
+```
+
+with the key [ASCg46GoO9j_vHsL6BOfoYtjVFy7vB1pyKdgdp021B68OQo](https://keybase.io/hal0), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoOOhqDvY/7x7C+gTn6GLY1Rcu7wdacinYHadNtQevDkKp3BheWxvYWTESpcCBMQgU7qgFdEY2btDlH0dS3eXKCHe/sD6cLb9aCtbRGlGiZ7EIMlMn+rBInzMqngUIMJTLVtsunjXdEcTKSHXvt1jl+psAgHCo3NpZ8RAKTEaCjtmpoXQ4IAlh/jcsTq97LE+9PzFTGuIPzfTwfHjc3c/hcUJ/YVPqdYdyPDCs65P+POhIg0Srg+f5XKiC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN3WdSO1J7RYkfvil3lXeYhNTG4yyLQNDdfrruRQWpUNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/hal0
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id hal0
+```
